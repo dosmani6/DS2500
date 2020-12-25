@@ -1,0 +1,508 @@
+gene,chromosome,disease,disease_class,num_positive,num_negative,num_unknown
+A2M,12,"alzheimer's disease",neurological,12,29,6
+ABCB1,7,"crohn's disease ulcerative colitis",immune,3,1,0
+ABCB1,7,epilepsy,neurological,3,2,4
+ABCC8,11,"diabetes type 2",metabolic,5,0,10
+ABO,9,"thromboembolism venous",cardiovascular,3,0,0
+ACE,17,"alzheimer's disease",neurological,7,5,6
+ACE,17,"atherosclerosis coronary",cardiovascular,3,0,4
+ACE,17,cardiovascular,cardiovascular,8,3,1
+ACE,17,"coronary artery disease",cardiovascular,4,3,2
+ACE,17,"diabetes type 1",immune,3,1,0
+ACE,17,"diabetes type 2",metabolic,13,5,40
+ACE,17,"diabetic nephropathy",renal,4,2,0
+ACE,17,hypertension,cardiovascular,26,7,20
+ACE,17,"left ventricular hypertrophy",cardiovascular,3,2,4
+ACE,17,lupus,immune,4,1,0
+ACE,17,"myocardial infarction",cardiovascular,10,0,2
+ACP1,2,"diabetes type 1",immune,3,0,4
+ADAM33,20,asthma,immune,10,1,2
+ADD1,4,hypertension,cardiovascular,12,6,9
+ADD2,2,hypertension,cardiovascular,3,1,0
+ADH1B,4,alcoholism,chemdependency,3,0,1
+ADIPOQ,3,"diabetes type 2",metabolic,6,1,5
+ADIPOQ,3,obesity,metabolic,4,0,3
+ADIPOR1,1,"diabetes type 2",metabolic,3,1,0
+ADRA2A,10,"attention deficit hyperactivity disorder",psych,3,1,2
+ADRA2C,4,"heart failure",cardiovascular,3,1,0
+ADRB1,10,"heart rate",cardiovascular,3,0,1
+ADRB2,5,asthma,immune,6,5,12
+ADRB2,5,hypertension,cardiovascular,6,1,12
+ADRB2,5,obesity,metabolic,5,5,3
+ADRB3,8,"diabetes type 2",metabolic,6,3,8
+ADRB3,8,obesity,metabolic,5,3,10
+AGT,1,cardiovascular,cardiovascular,3,1,0
+AGT,1,"essential hypertension",cardiovascular,4,1,1
+AGT,1,hypertension,cardiovascular,17,2,24
+AGT,1,"myocardial infarction",cardiovascular,4,0,0
+AGTR1,3,"essential hypertension",cardiovascular,3,0,0
+AGTR1,3,hypertension,cardiovascular,11,2,14
+AHSG,3,"bone density",metabolic,3,0,2
+AKR1B1,7,"diabetes type 2",metabolic,3,0,1
+AKT1,14,schizophrenia,psych,3,1,2
+ALDH2,12,"alcohol abuse",chemdependency,4,0,5
+ALDH2,12,alcoholism,chemdependency,4,1,6
+ALDRL2,9,"diabetes type 2",metabolic,4,2,1
+APBB1,11,"alzheimer's disease",neurological,3,3,2
+APEX1,14,"lung cancer",cancer,4,0,4
+APOA5,11,"atherosclerosis coronary",cardiovascular,4,0,1
+APOA5,11,triglycerides,metabolic,7,0,3
+APOB,2,cardiovascular,cardiovascular,5,0,0
+APOB,2,"coronary heart disease",cardiovascular,3,0,1
+APOB,2,obesity,metabolic,3,1,1
+APOC1,19,"alzheimer's disease",neurological,4,1,3
+APOE,19,"alzheimer's disease",neurological,68,36,77
+APOE,19,"coronary artery disease",cardiovascular,3,1,1
+APOE,19,"macular degeneration",vision,4,1,1
+APOE,19,"multiple sclerosis",immune,6,3,3
+APOE,19,"myocardial infarction",cardiovascular,5,0,1
+APOE,19,"parkinson's disease",neurological,3,3,4
+APOE,19,stroke,cardiovascular,5,0,1
+AR,X,"prostate cancer",cancer,7,2,13
+ASPN,9,osteoarthritis,metabolic,4,1,1
+ATM,11,"breast cancer",cancer,3,8,15
+ATP7B,13,"wilson disease",metabolic,3,0,11
+BACE1,11,"alzheimer's disease",neurological,4,4,5
+BCHE,3,"alzheimer's disease",neurological,4,4,8
+BDKRB2,14,hypertension,cardiovascular,5,0,0
+BDNF,11,"alzheimer's disease",neurological,6,8,6
+BDNF,11,"bipolar disorder",psych,5,4,4
+BDNF,11,depression,psych,3,0,2
+BDNF,11,"parkinson's disease",neurological,4,2,1
+BDNF,11,schizophrenia,psych,5,7,7
+BRAF,7,"colorectal cancer",cancer,3,0,5
+BRAF,7,"thyroid cancer",cancer,3,0,7
+BRCA1,17,"breast cancer",cancer,13,6,26
+BRCA2,13,"breast cancer",cancer,3,4,21
+CALCR,7,"bone density",metabolic,4,0,1
+CAPN10,2,"diabetes type 2",metabolic,14,8,10
+CARD15,16,"crohn's disease",immune,13,4,17
+CASR,3,"bone density",metabolic,3,4,5
+CCK,3,"panic disorder",psych,3,1,0
+CCKAR,4,schizophrenia,psych,5,0,1
+CCL5,17,asthma,immune,3,0,3
+CCL5,17,hiv,infection,3,3,6
+CCND1,11,"colorectal cancer",cancer,4,1,5
+CCND1,11,"oral cancer",cancer,3,0,1
+CCR2,3,hiv,infection,5,6,28
+CCR3,3,asthma,immune,5,2,0
+CCR5,3,asthma,immune,4,4,1
+CCR5,3,hiv,infection,6,5,31
+CCR5,3,"hiv infection",infection,5,0,9
+CD14,5,asthma,immune,3,4,5
+CD14,5,atopy,immune,6,2,3
+CD14,5,"crohn's disease",immune,3,1,2
+CD14,5,sepsis,infection,4,2,2
+CD14,5,"total ige",immune,4,0,0
+CDH1,16,"prostate cancer",cancer,5,0,4
+CDKN2A,9,melanoma,cancer,3,1,8
+CDSN,6,psoriasis,immune,4,1,5
+CETP,16,"atherosclerosis coronary",cardiovascular,3,0,4
+CETP,16,"cholesterol hdl",metabolic,3,0,3
+CFH,1,"macular degeneration",vision,18,4,12
+CFTR,7,"cystic fibrosis",other,4,0,20
+CFTR,7,pancreatitis,immune,4,0,3
+CHAT,10,"alzheimer's disease",neurological,4,4,3
+CHEK2,22,"breast cancer",cancer,7,8,13
+CHEK2,22,"prostate cancer",cancer,4,0,0
+CHL1,3,schizophrenia,psych,3,0,0
+CHRNA7,15,schizophrenia,psych,3,5,2
+COL1A1,17,"bone density",metabolic,5,6,7
+COL1A1,17,osteoporosis,metabolic,6,1,1
+COMT,22,"bipolar disorder",psych,3,3,2
+COMT,22,"breast cancer",cancer,4,2,15
+COMT,22,"obsessive compulsive disorder",psych,3,0,2
+COMT,22,"parkinson's disease",neurological,3,4,2
+COMT,22,schizophrenia,psych,11,9,19
+CRP,1,"c-reactive protein",immune,4,2,3
+CST3,20,"alzheimer's disease",neurological,6,3,5
+CTLA4,2,asthma,immune,3,5,1
+CTLA4,2,"autoimmune thyroid disease",immune,3,1,0
+CTLA4,2,"celiac disease",immune,3,1,3
+CTLA4,2,"diabetes type 1",immune,34,9,17
+CTLA4,2,"graves' disease",immune,16,2,8
+CTLA4,2,"lupus erythematosus",immune,5,1,3
+CTLA4,2,"multiple sclerosis",immune,6,10,6
+CTLA4,2,"rheumatoid arthritis",immune,7,4,5
+CTLA4,2,"sclerosis systemic",immune,4,1,0
+CTSD,11,"alzheimer's disease",neurological,3,10,4
+CXCL12,10,"diabetes type 1",immune,3,2,0
+CYBA,16,"atherosclerosis coronary",cardiovascular,4,0,4
+CYBA,16,hypertension,cardiovascular,3,0,4
+CYP11B2,8,cardiomyopathy,cardiovascular,3,0,1
+CYP11B2,8,hypertension,cardiovascular,11,3,19
+CYP17A1,10,"breast cancer",cancer,8,4,17
+CYP17A1,10,"prostate cancer",cancer,10,6,12
+CYP19A1,15,"breast cancer",cancer,3,4,8
+CYP19A1,15,"prostate cancer",cancer,3,0,5
+CYP1A1,15,"breast cancer",cancer,5,0,10
+CYP1A1,15,"colorectal cancer",cancer,3,0,8
+CYP1A1,15,"lung cancer",cancer,8,4,8
+CYP1A1,15,"prostate cancer",cancer,4,2,6
+CYP1B1,2,"breast cancer",cancer,8,7,10
+CYP1B1,2,glaucoma,vision,3,0,4
+CYP1B1,2,"glaucoma primary open-angle",vision,3,0,1
+CYP1B1,2,"prostate cancer",cancer,4,1,4
+CYP2A6,19,nicotine,chemdependency,3,0,8
+CYP2A6,19,"smoking behavior",chemdependency,7,0,5
+CYP2C19,10,"rabeprazole pharmacokinetics",pharmacogenomic,3,1,0
+CYP2C9,10,"anticoagulant complications",metabolic,6,0,18
+CYP2C9,10,"colorectal cancer",cancer,3,1,4
+CYP2C9,10,"warfarin sensitivity",metabolic,3,0,8
+CYP2C9,10,"warfarin sensitivity",pharmacogenomic,7,3,13
+CYP2D6,22,"cyp2d6 poor metabolizer phenotype",metabolic,4,0,1
+CYP2D6,22,"parkinson's disease",neurological,5,2,2
+CYP3A4,7,"prostate cancer",cancer,4,2,5
+CYP3A5,7,"tacrolimus pharmacokinetics",pharmacogenomic,3,0,4
+CYP46A1,14,"alzheimer's disease",neurological,9,3,7
+DAOA,13,schizophrenia,psych,3,3,7
+DISC1,1,schizophrenia,psych,4,1,4
+DLST,14,"alzheimer's disease",neurological,3,1,1
+DNMT3B,20,"lung cancer",cancer,3,0,0
+DRD2,11,alcoholism,chemdependency,12,8,8
+DRD2,11,"parkinson's disease",neurological,4,4,4
+DRD2,11,schizophrenia,psych,12,9,8
+DRD3,3,schizophrenia,psych,24,10,17
+DRD3,3,"tardive dyskinesia",neurological,5,1,6
+DRD4,11,adhd,psych,4,2,5
+DRD4,11,"attention deficit hyperactivity disorder",psych,13,5,22
+DRD4,11,"novelty seeking",psych,7,7,6
+DRD4,11,schizophrenia,psych,5,8,14
+DRD4,11,temperament,other,3,0,0
+DRP2,X,schizophrenia,psych,3,0,0
+DSG1,18,"pemphigus foliaceus",immune,3,0,0
+DTNBP1,6,schizophrenia,psych,7,9,5
+EGFR,7,"lung cancer",cancer,11,1,23
+EGFR,7,"lung cancer",pharmacogenomic,5,2,11
+ELAC2,17,"prostate cancer",cancer,12,6,6
+ENPP1,6,"diabetes type 2",metabolic,4,1,2
+EPHX1,1,"lung cancer",cancer,4,1,12
+ERBB2,17,"breast cancer",cancer,4,5,13
+ERCC1,19,"lung cancer",cancer,5,1,6
+ESR1,6,"bone density",metabolic,5,1,9
+ESR1,6,"bone mineral density",metabolic,6,1,1
+ESR1,6,"breast cancer",cancer,3,1,10
+ESR2,14,"bone density",metabolic,6,0,5
+F13A1,6,"myocardial infarct",cardiovascular,3,0,2
+F5,1,"thromboembolism venous",cardiovascular,6,7,6
+FCGR2A,1,malaria,infection,3,0,1
+FCGR2A,1,"systemic lupus erythematosus",immune,11,7,11
+FCGR2B,1,"lupus erythematosus",immune,5,0,3
+FCGR3A,1,"lupus erythematosus",immune,3,1,4
+FCGR3A,1,periodontitis,immune,3,0,4
+FCGR3A,1,"rheumatoid arthritis",immune,3,0,3
+FCGR3A,1,"systemic lupus erythematosus",immune,4,3,6
+FCGR3B,1,periodontitis,immune,7,0,3
+GABRB2,5,schizophrenia,psych,3,1,1
+GBA,1,"parkinson's disease",neurological,3,0,3
+GCK,7,"diabetes gestational",metabolic,3,0,1
+GCK,7,"diabetes type 2",metabolic,3,0,16
+GDNF,5,schizophrenia,psych,3,1,0
+GJA5,1,"atrial fibrillation",cardiovascular,3,0,0
+GJB2,13,"hearing loss sensorineural nonsyndromic",other,4,1,4
+GNAS,20,hypertension,cardiovascular,3,0,1
+GNB3,12,hypertension,cardiovascular,8,5,6
+GP1BA,17,"bernard-soulier syndrome",hematological,3,0,0
+GP1BA,17,"myocardial infarct",cardiovascular,3,0,0
+GRIN1,9,schizophrenia,psych,3,4,3
+GRIN2B,12,schizophrenia,psych,4,2,3
+GRM3,7,schizophrenia,psych,3,3,1
+GSTM1,1,"cytogenetic studies",other,4,1,2
+GSTM1,1,"lung cancer",cancer,9,2,15
+GSTP1,11,"breast cancer",cancer,4,0,6
+GSTP1,11,"lung cancer",cancer,4,3,8
+GSTT1,22,"benzene toxicity",metabolic,3,0,1
+GSTT1,22,"bladder cancer",cancer,3,1,4
+GSTT1,22,"lung cancer",cancer,4,4,7
+HCRTR2,6,"cluster headache",neurological,3,0,0
+HD,4,"huntington's disease",neurological,4,1,14
+HFE,6,hemochromatosis,metabolic,3,1,10
+HLA,6,"celiac disease",immune,4,0,2
+HLA,6,"diabetes type 1",immune,4,0,4
+HLA,6,"rheumatoid arthritis",immune,4,0,0
+HLA-A,6,leukemia,cancer,3,1,7
+HLA-B,6,"behcet's disease",immune,10,1,7
+HLA-C,6,psoriasis,immune,7,0,13
+HLA-DPB1,6,"diabetes type 1",immune,3,1,3
+HLA-DQA1,6,asthma,immune,3,1,1
+HLA-DQA1,6,"celiac disease",immune,4,2,19
+HLA-DQA1,6,"diabetes type 1",immune,10,0,45
+HLA-DQB1,6,asthma,immune,4,3,5
+HLA-DQB1,6,"celiac disease",immune,6,2,25
+HLA-DQB1,6,"cervical cancer",cancer,6,0,14
+HLA-DQB1,6,"diabetes type 1",immune,23,1,97
+HLA-DQB1,6,"multiple sclerosis",immune,3,2,20
+HLA-DQB1,6,"pregnancy loss recurrent",reproduction,4,0,5
+HLA-DQB1,6,schizophrenia,psych,3,2,2
+HLA-DQB1,6,"stomach cancer",cancer,3,0,0
+HLA-DQB1,6,tuberculosis,infection,4,0,4
+HLA-DRB1,6,asthma,immune,4,9,4
+HLA-DRB1,6,"cervical cancer",cancer,3,0,14
+HLA-DRB1,6,"diabetes type 1",immune,11,2,70
+HLA-DRB1,6,"giant cell arteritis",cardiovascular,3,0,0
+HLA-DRB1,6,"multiple sclerosis",immune,6,1,25
+HLA-DRB1,6,narcolepsy,neurological,3,0,4
+HLA-DRB1,6,"rheumatoid arthritis",immune,15,0,18
+HLA-DRB1,6,"sclerosis systemic",immune,3,0,4
+HLA-DRB1,6,"systemic lupus erythematosus",immune,5,0,18
+HLA-DRB1,6,tuberculosis,infection,4,0,4
+HLA-G,6,"pregnancy loss recurrent",reproduction,4,0,4
+HMOX1,22,"atherosclerosis coronary",cardiovascular,3,0,1
+HNF4A,20,"diabetes type 2",metabolic,12,4,12
+HSD11B2,16,hypertension,cardiovascular,3,0,4
+HTR1B,6,"alcohol dependence",chemdependency,4,0,0
+HTR2A,13,"bipolar disorder",psych,3,1,3
+HTR2A,13,depression,psych,3,2,3
+HTR2A,13,schizophrenia,psych,12,13,14
+ICAM1,19,"atherosclerosis coronary",cardiovascular,3,0,1
+IDE,10,"alzheimer's disease",neurological,5,3,4
+IFNG,12,asthma,immune,5,1,1
+IFNG,12,"breast cancer",cancer,3,0,3
+IFNG,12,"graft-versus-host disease",immune,3,0,2
+IFNG,12,"hepatitis b",infection,4,0,4
+IFNG,12,tuberculosis,infection,6,4,3
+IL10,1,asthma,immune,3,4,2
+IL10,1,hiv,infection,3,0,2
+IL10,1,"rheumatoid arthritis",immune,3,0,1
+IL10,1,schizophrenia,psych,3,0,0
+IL12B,5,asthma,immune,4,1,3
+IL12B,5,psoriasis,immune,3,2,0
+IL12B,5,tuberculosis,infection,3,1,1
+IL12RB1,19,tuberculosis,infection,3,1,1
+IL13,5,asthma,immune,9,0,6
+IL13,5,"atopic asthma",immune,3,0,0
+IL13,5,atopy,immune,5,0,2
+IL13,5,"chronic obstructive pulmonary disease/copd",immune,4,0,1
+IL18,11,"diabetes type 1",immune,4,3,2
+IL1A,2,"alzheimer's disease",neurological,6,2,7
+IL1A,2,periodontitis,immune,4,0,11
+IL1B,2,"alzheimer's disease",neurological,3,0,3
+IL1B,2,"gastric cancer",cancer,3,0,0
+IL1B,2,periodontitis,immune,3,0,11
+IL1B,2,"rheumatoid arthritis",immune,3,0,0
+IL1B,2,"stomach cancer",cancer,7,1,3
+IL1RN,2,"ankylosing spondylitis",immune,3,0,0
+IL1RN,2,"ulcerative colitis",immune,3,1,0
+IL23R,1,"crohn's disease ulcerative colitis",immune,4,0,0
+IL4,5,asthma,immune,4,3,7
+IL4,5,"atopic dermatitis",immune,3,0,0
+IL4,5,hiv,infection,4,0,2
+IL4,5,"increased ige",immune,3,0,0
+IL4R,16,asthma,immune,8,10,11
+IL4R,16,atopy,immune,6,4,2
+IL4R,16,"diabetes type 1",immune,3,0,2
+IL4R,16,"total serum ige",immune,5,0,1
+IL6,7,"bone density",metabolic,4,0,3
+IL6,7,"bone mineral density",metabolic,4,0,0
+IL6,7,"diabetes type 1",immune,3,0,3
+IL8,4,"stomach cancer",cancer,3,1,3
+INS,11,"diabetes type 1",immune,5,2,32
+INS,11,obesity,metabolic,3,0,1
+INS,11,"polycystic ovary syndrome.",metabolic,3,0,0
+INSR,19,"polycystic ovary syndrome",metabolic,4,1,0
+IPF1,13,"diabetes type 2",metabolic,3,2,3
+IRF5,7,"lupus erythematosus",immune,5,1,1
+IRS1,2,"diabetes type 2",metabolic,4,7,19
+ITGA2,5,"myocardial infarction",cardiovascular,3,2,1
+ITGB3,17,"atherosclerosis coronary",cardiovascular,3,1,2
+KCNJ11,11,"diabetes type 2",metabolic,5,4,10
+KCNN3,1,schizophrenia,psych,4,7,5
+KL,13,"bone density",metabolic,3,0,0
+KLK2,19,"prostate cancer",cancer,3,0,2
+LDLR,19,obesity,metabolic,3,0,0
+LEP,7,obesity,metabolic,4,1,7
+LEPR,1,"bone density",metabolic,3,0,1
+LEPR,1,insulin,metabolic,3,0,0
+LEPR,1,obesity,metabolic,6,4,7
+LPL,8,cardiovascular,cardiovascular,3,0,0
+LPL,8,"coronary artery disease",cardiovascular,3,1,3
+LRP1,12,"alzheimer's disease",neurological,4,5,8
+LRP5,11,"bone density",metabolic,10,0,5
+LRRK2,12,"parkinson's disease",neurological,6,3,41
+MAOA,X,alcoholism,chemdependency,4,2,2
+MAOA,X,"attention deficit hyperactivity disorder",psych,3,1,2
+MAOA,X,"bipolar disorder",psych,3,1,3
+MAOA,X,"personality disorders",psych,3,2,1
+MAOA,X,"smoking behavior",chemdependency,3,0,3
+MAOB,X,"parkinson's disease",neurological,8,2,11
+MAPT,17,"parkinson's disease",neurological,5,1,8
+MBP,18,"multiple sclerosis",immune,3,4,0
+MC1R,16,melanoma,cancer,5,1,6
+MC4R,18,obesity,metabolic,12,3,7
+MDM2,12,"lung cancer",cancer,4,1,3
+MEFV,16,amyloidosis,metabolic,3,1,1
+MICA,6,"behcet's disease",immune,3,1,4
+MICA,6,"diabetes type 1",immune,9,0,3
+MMP1,11,"colorectal cancer",cancer,5,1,1
+MMP1,11,"head and neck cancer",cancer,3,0,0
+MMP1,11,"lung cancer",cancer,6,1,1
+MMP2,16,"breast cancer",cancer,3,0,1
+MMP2,16,"colorectal cancer",cancer,3,1,0
+MMP3,11,"rheumatoid arthritis",immune,3,1,1
+MPO,17,"alzheimer's disease",neurological,5,3,1
+MPO,17,"lung cancer",cancer,7,3,13
+MSR1,8,"prostate cancer",cancer,6,5,4
+MTHFR,1,"colorectal cancer",cancer,6,0,11
+MTHFR,1,"diabetes type 2",metabolic,3,1,11
+MTHFR,1,"esophageal cancer",cancer,3,0,2
+MTHFR,1,homocysteine,metabolic,3,2,9
+MTHFR,1,"lung cancer",cancer,3,0,3
+MTHFR,1,"neural tube defects",developmental,6,5,6
+MTHFR,1,"pregnancy loss recurrent",reproduction,4,2,3
+MUTYH,1,"colorectal cancer",cancer,4,0,10
+MYOC,1,glaucoma,vision,7,1,2
+MYOC,1,"glaucoma primary open-angle",vision,8,4,9
+NAT2,8,"bladder cancer",cancer,4,0,7
+NAT2,8,"breast cancer",cancer,4,3,9
+NAT2,8,"lung cancer",cancer,5,0,6
+NEUROD1,2,"diabetes type 1",immune,7,1,3
+NEUROD1,2,"diabetes type 2",metabolic,4,0,4
+NOD2,16,"crohn's disease",immune,3,2,7
+NOD2,16,"crohn's disease ulcerative colitis",immune,3,3,8
+NOS1,12,asthma,immune,5,0,3
+NOS1,12,"parkinson's disease",neurological,3,1,0
+NOS2A,17,atopy,immune,3,0,0
+NOS2A,17,"stomach cancer",cancer,3,0,1
+NOS3,7,"acute coronary syndrome",cardiovascular,3,0,5
+NOS3,7,"atherosclerosis coronary",cardiovascular,12,3,11
+NOS3,7,"behcet's disease",immune,5,2,0
+NOS3,7,"breast cancer",cancer,3,1,3
+NOS3,7,"coronary artery disease",cardiovascular,6,11,2
+NOS3,7,"diabetes type 2",metabolic,5,4,1
+NOS3,7,hypertension,cardiovascular,13,13,12
+NOS3,7,"myocardial infarction",cardiovascular,7,0,2
+NOS3,7,preeclampsia,other,3,0,0
+NOS3,7,"prostate cancer",cancer,3,0,0
+NOS3,7,stroke,cardiovascular,3,3,1
+NOS3,7,"stroke ischemic",cardiovascular,3,1,0
+NOTCH4,6,schizophrenia,psych,9,7,6
+NPY,7,alcoholism,chemdependency,3,0,0
+NQO1,16,"benzene toxicity",metabolic,4,0,0
+NQO1,16,"lung cancer",cancer,5,0,7
+NQO1,16,"parkinson's disease",neurological,3,1,3
+NR4A2,2,"parkinson's disease",neurological,5,1,8
+NRG1,8,schizophrenia,psych,7,6,10
+OGG1,3,"lung cancer",cancer,5,1,6
+OLR1,12,"alzheimer's disease",neurological,4,1,1
+OPA1,3,glaucoma,vision,4,2,0
+OPTN,10,glaucoma,vision,3,1,0
+OPTN,10,"glaucoma primary open-angle",vision,4,2,4
+P2RX7,12,tuberculosis,infection,3,0,0
+PADI4,1,"rheumatoid arthritis",immune,4,4,3
+PARK2,6,"parkinson's disease",neurological,14,2,20
+PAX4,7,"diabetes type 2",metabolic,4,1,1
+PDCD1,2,"lupus erythematosus",immune,6,1,2
+PDCD1,2,"rheumatoid arthritis",immune,3,1,0
+PGR,11,"breast cancer",cancer,3,1,2
+PINK1,1,"parkinson's disease",neurological,6,3,6
+PLAU,10,"alzheimer's disease",neurological,3,1,1
+PLN,6,cardiomyopathy,cardiovascular,4,0,0
+PLOD1,1,"bone density",metabolic,3,0,0
+POLG,15,"infertility male",reproduction,3,0,1
+POMC,2,obesity,metabolic,3,2,3
+PON1,7,"alzheimer's disease",neurological,3,3,3
+PON1,7,atherosclerosis,cardiovascular,4,0,2
+PON1,7,"atherosclerosis coronary",cardiovascular,8,3,8
+PON1,7,"coronary artery disease",cardiovascular,4,1,1
+PON1,7,"diabetes type 2",metabolic,4,1,6
+PON1,7,"myocardial infarct",cardiovascular,4,0,1
+PON1,7,"parkinson's disease",neurological,6,3,3
+PON1,7,stroke,cardiovascular,3,0,1
+PON2,7,"preterm delivery",reproduction,4,0,0
+PPARA,22,"diabetes type 2",metabolic,3,0,0
+PPARG,3,"diabetes type 2",metabolic,11,4,11
+PPARG,3,obesity,metabolic,5,0,6
+PPARGC1A,4,"diabetes type 2",metabolic,4,1,6
+PPP1R3A,7,"diabetes type 2",metabolic,3,1,2
+PRKCZ,1,"diabetes type 2",metabolic,4,0,2
+PRNP,20,"creutzfeldt-jakob disease",neurological,3,0,3
+PSEN1,14,"alzheimer's disease",neurological,13,12,15
+PTGDR,14,asthma,immune,3,1,0
+PTPN1,20,"diabetes type 2",metabolic,3,2,1
+PTPN11,12,"noonan syndrome",developmental,5,0,3
+PTPN22,1,"diabetes type 1",immune,10,0,1
+PTPN22,1,"lupus erythematosus",immune,3,0,3
+PTPN22,1,"rheumatoid arthritis",immune,8,2,10
+RAGE,14,"atherosclerosis coronary",cardiovascular,3,2,0
+RDH5,12,"fundus albipunctatus",other,3,0,0
+REN,1,hypertension,cardiovascular,4,2,8
+RET,10,"hirschsprung's disease",other,4,0,6
+RGS4,1,schizophrenia,psych,3,6,10
+RNASEL,1,"prostate cancer",cancer,4,2,4
+RUNX2,6,"bone density",metabolic,3,0,0
+SCGB1A1,11,asthma,immune,9,5,4
+SERPINE1,7,"breast cancer",cancer,3,0,2
+SERPINE1,7,obesity,metabolic,3,0,2
+SLC11A1,2,tuberculosis,infection,6,0,8
+SLC19A1,21,"neural tube defects",developmental,4,2,6
+SLC22A4,5,"crohn's disease",immune,3,0,7
+SLC22A5,5,"crohn's disease",immune,3,0,7
+SLC6A14,X,obesity,metabolic,3,0,0
+SLC6A3,5,"attention deficit hyperactivity disorder",psych,7,5,29
+SLC6A3,5,"parkinson's disease",neurological,3,4,9
+SLC6A3,5,"smoking behavior",chemdependency,4,0,7
+SLC6A4,17,alcoholism,chemdependency,5,0,9
+SLC6A4,17,"anxiety-related traits",psych,3,0,0
+SLC6A4,17,"attention deficit hyperactivity disorder",psych,4,1,9
+SLC6A4,17,"bipolar disorder",psych,4,0,9
+SLC6A4,17,depression,psych,9,3,28
+SLC6A4,17,"depressive disorder major",psych,5,0,13
+SLC6A4,17,"personality disorders",psych,5,2,4
+SLC6A4,17,"personality traits",psych,9,2,8
+SLC6A4,17,schizophrenia,psych,3,4,15
+SLC6A4,17,suicide,psych,8,2,15
+SNCA,4,"parkinson's disease",neurological,5,5,20
+SOD2,6,"breast cancer",cancer,9,4,11
+SPINK1,5,pancreatitis,immune,8,1,6
+SPINK1,5,pancreatitis,other,3,0,0
+SRD5A2,2,"prostate cancer",cancer,9,7,14
+STAT6,12,"total ige",immune,4,0,0
+SULT1A1,16,"breast cancer",cancer,11,0,16
+SULT1A1,16,"colorectal cancer",cancer,5,0,7
+SUMO4,6,"diabetes type 1",immune,4,2,3
+TAP2,6,"diabetes type 1",immune,4,2,7
+TBXA2R,19,asthma,immune,4,2,1
+TCF1,12,"diabetes type 2",metabolic,6,4,13
+TCF7L2,10,"diabetes type 2",metabolic,13,1,5
+TH,11,schizophrenia,psych,5,5,1
+THBD,20,"myocardial infarction",cardiovascular,4,0,2
+TLR2,4,tuberculosis,infection,3,0,0
+TLR4,9,fev1,other,3,0,0
+TNF,6,asthma,immune,8,5,10
+TNF,6,"diabetes type 2",metabolic,3,0,5
+TNF,6,psoriasis,immune,5,0,2
+TNF,6,"rheumatoid arthritis",immune,3,4,6
+TNFRSF1B,1,"bone density",metabolic,3,1,1
+TNFRSF1B,1,"rheumatoid arthritis",immune,3,2,6
+TNNT2,1,cardiomyopathy,cardiovascular,3,0,5
+TP53,17,"breast cancer",cancer,3,1,17
+TP53,17,"lung cancer",cancer,7,2,14
+TP53,17,smoking,cancer,4,0,1
+TP73,1,"lung cancer",cancer,3,2,2
+TPH1,11,"depressive disorder major",psych,3,3,3
+TPH1,11,schizophrenia,psych,3,0,2
+TPH1,11,"suicidal behavior",psych,4,0,1
+TPH1,11,suicide,psych,3,2,7
+TPH2,12,suicide,psych,3,1,1
+TTR,18,"familial amyloidotic polyneuropathy.",neurological,3,0,0
+UCHL1,4,"parkinson's disease",neurological,5,6,4
+UCP2,11,obesity,metabolic,7,3,6
+UCP3,11,obesity,metabolic,3,1,3
+UGT1A1,2,hyperbilirubinemia,metabolic,5,0,5
+UGT1A1,2,"irinotecan pharmacokinetics",pharmacogenomic,3,0,2
+UGT1A1,2,"irinotecan toxicity",pharmacogenomic,3,2,3
+UGT1A7,2,"colorectal cancer",cancer,3,0,3
+UTS2,1,"diabetes type 2",metabolic,3,0,2
+VDR,12,"bone density",metabolic,4,6,9
+VDR,12,"bone mass",metabolic,4,1,0
+VDR,12,"bone mineral density",metabolic,13,0,1
+VDR,12,"diabetes type 1",immune,7,1,2
+VDR,12,"prostate cancer",cancer,10,1,8
+VDR,12,tuberculosis,infection,3,0,4
+VEGFA,6,endometriosis,reproduction,4,0,0
+VEGFA,6,"prostate cancer",cancer,4,1,0
+VKORC1,16,"warfarin sensitivity",pharmacogenomic,12,0,9
+XPA,9,"lung cancer",cancer,4,0,3
+XPC,3,"lung cancer",cancer,6,1,4
+XRCC1,19,"cytogenetic studies",other,4,0,9
+XRCC1,19,"lung cancer",cancer,7,0,12
